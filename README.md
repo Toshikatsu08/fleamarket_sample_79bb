@@ -46,8 +46,8 @@
 |zip_code|integer|null: false|
 |prefecture|string|null: false|
 |city|string|null: false|
-|adress|string|null: false|
-|second_adress|string||
+|address|string|null: false|
+|second_address|string||
 
 ### Association
 
